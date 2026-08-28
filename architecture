@@ -1,0 +1,21 @@
+aws-ec2-web-server-deployment/
+│
+├── README.md
+├── website/
+│   ├── index.html
+│   └── style.css
+│
+├── scripts/
+│   └── setup.sh
+│
+├── architecture/
+│   └── architecture.png
+│
+└── screenshots/
+    ├── vpc.png
+    ├── subnet.png
+    ├── security-group.png
+    ├── ec2.png
+    ├── apache.png
+    ├── website.png
+    └── cloudwatch.png
